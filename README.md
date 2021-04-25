@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
+  <img src=".github/logo.svg" alt="Podcastr logo">
 </div>
 
 
@@ -12,10 +12,10 @@
  <a href="#-tecnologies">Tecnologies</a> • 
  <a href="#-Getting-started">Getting started</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-license">License</a>
 </p>
 
-![Podcastr preview](.github/preview-podcast.png)
+![Podcastr](.github/preview-podcast.gif)
 
 ## 💻 About 
 
