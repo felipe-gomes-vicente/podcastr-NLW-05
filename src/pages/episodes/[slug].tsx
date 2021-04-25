@@ -10,6 +10,7 @@ import { convertDurationToTimeString } from "../../utils/convertDurationToTimeSt
 
 import styles from "./episode.module.scss";
 import { usePlayer } from "../../contexts/PlayerContext";
+import Head from "next/head";
 type Episode = {
   id: string;
   title: string;
@@ -30,6 +31,10 @@ export default function Episode({ episode }: EpisodeProps) {
   const { play } = usePlayer();
   return (
     <div className={styles.episode}>
+      <Head>
+        <title>{episode.title} | PodCastr</title>
+      </Head>
+
       <div className={styles.thumbnailContainer}>
         <Link href="/">
         <button type="button">
