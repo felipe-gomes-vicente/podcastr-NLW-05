@@ -12,10 +12,10 @@
  <a href="#-tecnologies">Tecnologies</a> • 
  <a href="#-Getting-started">Getting started</a> • 
  <a href="#-autor">Autor</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-license">License</a>
 </p>
 
-![Podcastr preview](.github/preview-podcast.png)
+![Podcastr](.github/preview-podcast.gif)
 
 ## 💻 About 
 
